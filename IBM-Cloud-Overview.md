@@ -9,6 +9,11 @@
 - [Data protection and compliance with IBM Cloud](https://www.youtube.com/watch?v=AT6hhvanus8)
 - [IBM Cloud compliance programs](http://ibm.biz/cloud-compliance-programs)
 
+## Cloud deployment options
+
+- IBM Cloud Public : IBM Cloud hosted in IBM's data centers, accessible over the internet
+- IBM Cloud Private : IBM Cloud delivered behind your firewall and in your data center
+
 ## Resources
 - [Public cloud interface](https://cloud.ibm.com/)
 - [IBM Cloud CLI](https://cloud.ibm.com/docs?tab=develop) 
