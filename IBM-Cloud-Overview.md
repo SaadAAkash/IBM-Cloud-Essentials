@@ -14,8 +14,26 @@
 - IBM Cloud Public : IBM Cloud hosted in IBM's data centers, accessible over the internet
 - IBM Cloud Private : IBM Cloud delivered behind your firewall and in your data center
 
+## Hybrid Cloud
+
+Hybrid cloud is a computing environment that connects a company’s on-premises private cloud services and third-party public cloud into a single, flexible infrastructure for running the organization’s applications and workloads
+
+#### Features
+1. Interoperable
+2. Scalable
+3. Portable
+4. Security
+
+#### Common use cases
+1. SaaS integration
+2. Data & AI
+3. Enhancing legacy apps
+4. VMWare Integration
+
 ## Resources
 - [Public cloud interface](https://cloud.ibm.com/)
 - [IBM Cloud CLI](https://cloud.ibm.com/docs?tab=develop) 
 - [IBM Cloud CLI Docs on Github](https://github.com/ibm-cloud-docs/cli)
 - [API and SDK References](https://cloud.ibm.com/docs?tab=api-docs)
+- [Hybrid Cloud](https://www.ibm.com/cloud/learn/hybrid-cloud)
+- [IBM Cloud datacenters](https://www.ibm.com/cloud/data-centers/)
